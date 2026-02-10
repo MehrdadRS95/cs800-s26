@@ -85,7 +85,7 @@ https://orcid.org/0000-0003-0977-6510
 
 #### ORCID Profile
 A screenshot of my ORCID profile:
-[ORCID profile](ORCID/orcid.png)
+[ORCID profile](ORCID/ORCID.png)
 
 - ORCID URL
   https://orcid.org/0000-0003-0977-6510
