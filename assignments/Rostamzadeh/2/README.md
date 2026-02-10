@@ -1,3 +1,6 @@
+## Directory Structure
+
+<pre>
 Rostamzadeh/
 ├── 1/
 ├── 2/
@@ -18,6 +21,8 @@ Rostamzadeh/
 │   │   ├── CitiCompletionReport.pdf
 │   │   └── RCR_degree_work.png
 │   └── README.md
+</pre>
+
 
 ## Google Scholar
 
@@ -43,7 +48,8 @@ main.png
 A screenshot of my main Google Scholar profile page, showing my name, affiliation, research interests, and profile
 setup.
 
-Followings.png
+[View Google Scholar Followings](2/google_scholar/Followings.png)
+
 
 ## RCR
 
