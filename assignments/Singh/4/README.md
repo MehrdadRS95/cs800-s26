@@ -30,25 +30,21 @@ assignments/
             └── figures/      # Optional: images or diagrams used in the review
 
 ```
-**review.pdf** – Final compiled PDF of the literature review.
-
-**review.tex** – LaTeX source used to generate the PDF.
-
-**references.bib** – BibTeX file with all cited references.
+- **lit_review.pdf** – Final compiled PDF of the literature review.
+- **litreview.tex** – LaTeX source used to generate the PDF.
+- **litreview.bib** – BibTeX file with all cited references.
 
 
-##YouTube Video Walkthrough
+### YouTube Video Walkthrough
 
 A video demonstrating:
-
-The Overleaf project structure
-
-Compiling the LaTeX document
-
-Downloading the final PDF
-
-Scrolling through the literature review and briefly describing each paper
+- The Overleaf project structure
+- Compiling the LaTeX document
+- Downloading the final PDF
+- Scrolling through the literature review and briefly describing each paper
+#### Link :
 
 Link: [PASTE_YOUR_YOUTUBE_LINK_HERE]
+
 
 
