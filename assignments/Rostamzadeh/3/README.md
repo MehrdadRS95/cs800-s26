@@ -56,7 +56,7 @@ https://doi.org/10.48550/arXiv.2512.15163
 ### BibTex Entry 
 
 ```
-@article{zong2025mcp,
+@misc{zong2025mcp,
   author  = {Zong, Xuanjun and Shen, Zhiqi and Wang, Lei and Lan, Yunshi and Yang, Chao},
   title   = {{MCP-SafetyBench}: A Benchmark for Safety Evaluation of Large Language Models with Real-World {MCP} Servers},
   journal = {arXiv preprint arXiv:2512.15163},
@@ -99,7 +99,7 @@ https://doi.org/10.48550/arXiv.2512.01295
 
 ### BibTex
 ```
-@article{christodorescu2025systems,
+@misc{christodorescu2025systems,
   author  = {Christodorescu, Mihai and Fernandes, Earlence and Hooda, Ashish and Jha, Somesh and Rehberger, Johann and Shams, Kayhan},
   title   = {Systems Security Foundations for Agentic Computing},
   journal = {arXiv preprint arXiv:2512.01295},
@@ -157,7 +157,7 @@ https://doi.org/10.48550/arXiv.2508.14704
 
 ### BibTex
 ```
-@article{luo2025mcp,
+@misc{luo2025mcp,
   author  = {Luo, Ziyu and Shen, Zehui and Yang, Wenhao and Zhao, Zheng and Jwalapuram, Prathyusha and Saha, Ankit and Sahoo, Doyen and Savarese, Silvio and Xiong, Caiming and Li, Juan},
   title   = {{MCP-Universe}: Benchmarking Large Language Models with Real-World Model Context Protocol Servers},
   journal = {arXiv preprint arXiv:2508.14704},
@@ -211,7 +211,7 @@ https://doi.org/10.48550/arXiv.2210.03629
   booktitle = {Proceedings of the Eleventh International Conference on Learning Representations (ICLR)},
   month     = oct,
   year      = {2022},
-  url       = {https://arxiv.org/pdf/2210.03629}
+  url       = {https://arxiv.org/abs/2210.03629}
 }
 ```
 
@@ -244,7 +244,7 @@ https://doi.org/10.48550/arXiv.2508.14925
 
 ### BibTex entry
 ```
-@article{wang2025mcptox,
+@misc{wang2025mcptox,
   author  = {Wang, Z. and Gao, Y. and Wang, Y. and Liu, S. and Sun, H. and Cheng, H. and Shi, G. and Du, H. and Li, X.},
   title   = {{MCPTox}: A Benchmark for Tool Poisoning Attack on Real-World {MCP} Servers},
   journal = {arXiv preprint arXiv:2508.14925},
