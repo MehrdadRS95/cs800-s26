@@ -102,15 +102,7 @@ These works collectively examine both **attack mechanisms and defensive strategi
 
 ---
 
-# Literature Review Preview
 
-You can read the compiled literature review directly in GitHub’s PDF viewer:
-
-➡️ **[View Literature Review PDF](latex_files/CS_800__A4_Das.pdf)**
-
-This opens the document directly in GitHub without downloading it.
-
----
 
 # YouTube Video
 
@@ -118,10 +110,4 @@ This opens the document directly in GitHub without downloading it.
 
 Video Link: **INSERT_YOUTUBE_LINK_HERE**
 
-The video demonstrates:
 
-- Opening the Overleaf project
-- Compiling the LaTeX document
-- Downloading the final PDF
-- Scrolling through the literature review
-- Brief explanation of each included research paper
