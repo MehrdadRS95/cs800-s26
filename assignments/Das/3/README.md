@@ -31,12 +31,14 @@ DOI:
 https://arxiv.org/abs/2406.09187
 
 BibTeX:
+
 @inproceedings{xiang2025guardagent,
 title={Guardagent: safeguard LLM agents via knowledge-enabled reasoning},
 author={Xiang, Zhen and Zheng, Linzhi and Li, Yanjie and Hong, Junyuan and Li, Qinbin and Xie, Han and Zhang, Jiawei and Xiong, Zidi and Xie, Chulin and Bastian, Nathaniel D and others},
 booktitle={ICML 2025 workshop on computer use agents},
 year={2025}
 }
+
 1st pass (Keshav):
 
 Problem:
@@ -66,6 +68,7 @@ DOI:
 https://openreview.net/forum?id=QfD9P9IIoz
 
 BibTeX:
+
 @inproceedings{pal2025hidden,
 title={Hidden no more: attacking and defending private third-party LLM inference},
 author={Pal, Arka and Thomas, Rahul Krishna and Zahran, Louai and Choi, Erica and Potti, Akilesh and Goldblum, Micah},
@@ -102,25 +105,13 @@ DOI:
 https://arxiv.org/abs/2601.07084
 
 BibTeX:
+
 @article{tessa2026secure,
 title={How Secure is Secure Code Generation? Adversarial Prompts Put LLM Defenses to the Test},
 author={Tessa, Melissa and Olatunji, Iyiola E and War, Aicha and Klein, Jacques and Bissyand{\'e}, Tegawend{\'e} F},
 journal={arXiv preprint arXiv:2601.07084},
 year={2026}
 }
-
-1st pass (Keshav):
-
-Problem:
-Security claims of code LLMs are unreliable.
-
-Approach:
-Adversarial prompt evaluation.
-
-Contributions:
-
-Robustness testing
-Security-functionality tradeoff
 
 Screenshot (Page 1):
 
@@ -137,6 +128,7 @@ DOI:
 https://arxiv.org/abs/2309.06055
 
 BibTeX:
+
 @article{cheng2025backdoor,
 title={Backdoor attacks and countermeasures in natural language processing models: A comprehensive security review},
 author={Cheng, Pengzhou and Wu, Zongru and Du, Wei and Zhao, Haodong and Lu, Wei and Liu, Gongshen},
@@ -144,19 +136,6 @@ journal={IEEE Transactions on Neural Networks and Learning Systems},
 year={2025},
 publisher={IEEE}
 }
-
-1st pass (Keshav):
-
-Problem:
-Backdoor threats lack unified study.
-
-Approach:
-Survey-based taxonomy.
-
-Contributions:
-
-Unified taxonomy
-Defense categorization
 
 Screenshot (Page 1):
 
@@ -173,6 +152,7 @@ DOI:
 https://arxiv.org/abs/2510.03417
 
 BibTeX:
+
 @inproceedings{asl2025nexus,
 title={NEXUS: Network Exploration for eXploiting Unsafe Sequences in Multi-Turn LLM Jailbreaks},
 author={Asl, Javad Rafiei and Narula, Sidhant and Ghasemigol, Mohammad and Blanco, Eduardo and Takabi, Daniel},
@@ -180,19 +160,6 @@ booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural La
 pages={24278--24306},
 year={2025}
 }
-
-1st pass (Keshav):
-
-Problem:
-Multi-turn jailbreak attacks evade safety.
-
-Approach:
-Network-based exploration + refinement.
-
-Contributions:
-
-ThoughtNet
-Adaptive attack framework
 
 Screenshot (Page 1):
 
