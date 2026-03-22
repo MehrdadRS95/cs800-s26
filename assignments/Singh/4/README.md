@@ -25,10 +25,8 @@ assignments/
         ├── README.md
         ├── lit_review.pdf
         └── papers      
-        └── LateX/
-            ├── litreview.tex  
-            ├── litreview.bib
-            
+        └──litreview.tex
+        └──litreview.bib            
 
 ```
 - **lit_review.pdf** – Final compiled PDF of the literature review.
