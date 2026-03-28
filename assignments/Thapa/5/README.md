@@ -16,7 +16,7 @@ This submission contains a summary of relationship between two close papers in m
 ### Paper 1: PSMT: Private Segmented Membership Test for Distributed Record Linkage
 ```bibtex
 @techreport{koirala2025psmt,
-    title={{PSMT}: {P}rivate {S}egmented {M}embership {T}est for {D}istributed {R}ecord {L}inkage},
+    title={{PSMT}: Private Segmented Membership Test for Distributed Record Linkage},
     author={Koirala, Nirajan and Takeshita, Jonathan and Stevens, Jeremy and Martin, Sam and Jung, Taeho},
     institution={Cryptology ePrint Archive},
     year={2025},
@@ -27,7 +27,7 @@ This submission contains a summary of relationship between two close papers in m
 ```bibtex
 @inproceedings{koirala2025select,
     author = {Koirala, Nirajan and Paik, Seunghun and Martin, Sam and Berens, Helena and Januszewicz, Tasha and Takeshita, Jonathan and Seo, Jae Hong and Jung, Taeho},
-    title = {{S}elect-{T}hen-{C}ompute: {E}ncrypted {L}abel {S}election and {A}nalytics over {D}istributed {D}atasets using {FHE}},
+    title = {Select-Then-Compute: Encrypted Label Selection and Analytics over Distributed Datasets using {FHE}},
     year = {2026},
     isbn = {9798991927680},
     url = {https://dx.doi.org/10.14722/ndss.2026.240207},
